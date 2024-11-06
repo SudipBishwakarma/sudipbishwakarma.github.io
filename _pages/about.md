@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi! 👋
 
-I'm a musician turned software engineer with a strong focus on advancing my research skills, particularly in machine learning and music technology, through a graduate program. My background in composing and arranging music has evolved into a passion for building production-ready code that creates real-world value. I earned a Master’s degree with focus in Data Analytics from [London Metropolitan University](https://www.londonmet.ac.uk/).
+I'm a musician turned software engineer with a strong focus on advancing my research skills, particularly in machine learning and music technology, through a graduate program. I earned a Master’s degree with focus in Data Analytics from [London Metropolitan University](https://www.londonmet.ac.uk/).
 
 With over 8 years of experience in Big Data and eCommerce, I’ve developed and deployed scalable systems with a specialization in cloud computing, distributed systems, data streaming, and pipelines. Currently, I’m focused on Big Data analytics, designing real-time data mastering and retrieval solutions for U.S. healthcare data at [Infinite](https://www.infinite.com/). Besides my full-time job, I’m also a part-time instructor at [Islington College](https://www.islington.edu.np/), where I teach undergraduate students about software development and shipping. Additionally, I work with startups and small businesses as a consultant helping them embrace Generative AI to their current workflows.
 
