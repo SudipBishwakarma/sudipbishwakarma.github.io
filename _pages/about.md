@@ -8,9 +8,9 @@ redirect_from:
 ---
 Hi! 👋
 
-I'm a musician turned software engineer with a Master’s in Information Technology from [London Metropolitan University](https://www.londonmet.ac.uk/), currently seeking a graduate program to build research skills in machine learning by combining NLP and music technology.
+I am a musician turned software engineer with a Master’s in Information Technology from [London Metropolitan University](https://www.londonmet.ac.uk/), currently seeking a graduate program to build research skills in machine learning by combining NLP and music technology.
 
-With over 8 years of experience in Big Data and eCommerce, I’ve developed and deployed scalable systems with expertise in cloud computing, distributed systems, data streaming, and data pipelines. Currently, I’m leading a team to design real-time data mastering and retrieval solutions focused on U.S. healthcare data for [Cotiviti](https://www.cotiviti.com/) at [Infinite](https://www.infinite.com/). In addition to my full-time role, I’m a part-time instructor at [Islington College](https://www.islington.edu.np/), where I teach undergraduate students about software development and shipping. I also work with startups and small businesses as a consultant, helping them integrate Generative AI into their workflows.
+With over 8 years of experience in Big Data and eCommerce, I have developed and deployed scalable systems with expertise in cloud computing, distributed systems, data streaming, and data pipelines. Currently, I am leading a team to design real-time data mastering and retrieval solutions focused on U.S. healthcare data for [Cotiviti](https://www.cotiviti.com/) at [Infinite](https://www.infinite.com/). In addition to my full-time role, I am a part-time instructor at [Islington College](https://www.islington.edu.np/), where I teach undergraduate students about software development and shipping. I also work with startups and small businesses as a consultant, helping them integrate Generative AI into their workflows.
 
 Before my software engineering career, I was a freelance musician, and arranger for [Karma Records](https://www.youtube.com/@KarmaRecordsNepal), a Kathmandu-based record label, where I collaborated with professional musicians and cover artists.
 
