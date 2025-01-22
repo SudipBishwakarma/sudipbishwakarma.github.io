@@ -85,6 +85,14 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+portfolio_category:
+  audio_recordings:
+    title: 'Audio Recordings'
+  video_recordings:
+    title: 'Video Recordings'
+  sheet_music:
+    title: 'Sheet Music'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
