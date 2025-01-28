@@ -6,7 +6,7 @@ category: video_recordings
 ---
 
 <iframe src="https://drive.google.com/file/d/1pyKMmaKO7TisMsxWETsz5KQZ1VbVvZlI/preview" width="854" height="480" allow="autoplay; encrypted-media"></iframe>
-[Video URL](https://drive.google.com/file/d/1pyKMmaKO7TisMsxWETsz5KQZ1VbVvZlI/preview){:target="_blank"}
+[Video URL](https://drive.google.com/file/d/1pyKMmaKO7TisMsxWETsz5KQZ1VbVvZlI/view){:target="_blank"}
 
 This is a cover arrangement of the popular Nepali pop song "Parelima" by the band 1974 AD. Originally released in 1998, the song has become a classic in the Nepali music scene.
 
