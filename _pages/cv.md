@@ -11,4 +11,4 @@ redirect_from:
 
 <iframe src="/files/cv-sudip.pdf" width="90%" height="700"></iframe>
 
-[Download CV](/files/cv-sudip.pdf){:target="_blank"}
+[Download CV](/files/cv_sudip.pdf){:target="_blank"}
