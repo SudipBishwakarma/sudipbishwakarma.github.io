@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/cv-sudip.pdf" width="90%" height="700"></iframe>
+<iframe src="/files/cv_sudip.pdf" width="90%" height="700"></iframe>
 
 [Download CV](/files/cv_sudip.pdf){:target="_blank"}
