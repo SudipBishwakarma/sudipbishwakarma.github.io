@@ -1,7 +1,7 @@
 ---
 title: "John Legend - All of Me (Piano Arrangement)"
 excerpt: "This is a piano arrangement of John Legend's \"All of Me\" that I originally created for a client and later re-adapted for a studio cover.<br/><img src='/images/portfolio/all_of_me.png'>"
-collection: portfolio
+collection: music
 category: sheet_music
 ---
 

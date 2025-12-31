@@ -85,7 +85,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
-portfolio_category:
+music_category:
   audio_recordings:
     title: 'Audio Recordings'
   video_recordings:
@@ -228,7 +228,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  music:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -274,10 +274,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _music
   - scope:
       path: ""
-      type: portfolio
+      type: music
     values:
       layout: single
       author_profile: true

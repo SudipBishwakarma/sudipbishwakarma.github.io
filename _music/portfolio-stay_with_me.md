@@ -1,7 +1,7 @@
 ---
 title: "Sam Smith - Stay With Me (Acoustic Guitar Arrangement)"
 excerpt: "This is an acoustic guitar arrangement of Sam Smith's \"Stay With Me\" that I created for a studio cover.<br/><img src='/images/portfolio/stay_with_me.png'>"
-collection: portfolio
+collection: music
 category: sheet_music
 ---
 

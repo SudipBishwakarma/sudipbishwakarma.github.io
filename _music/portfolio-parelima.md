@@ -1,7 +1,7 @@
 ---
 title: "1974 AD - Parelima (Cover Arrangement)"
 excerpt: "Cover arrangement by me of a popular Nepali pop song. <br/><img src='/images/portfolio/parelima.png'>"
-collection: portfolio
+collection: music
 category: video_recordings
 ---
 

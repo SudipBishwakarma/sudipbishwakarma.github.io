@@ -1,7 +1,7 @@
 ---
 title: "Joe Satriani - Ten Words (Practice Session)"
 excerpt: "Practice session of the instrumental song with my band for a local new year concert in 2016.<br/><img src='/images/portfolio/ten_words.png'>"
-collection: portfolio
+collection: music
 category: video_recordings
 ---
 
